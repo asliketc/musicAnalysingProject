@@ -1,0 +1,119 @@
+ Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [11] | Name: note
+Chord (Pitch Classes): [2] | Name: note
+Chord (Pitch Classes): [0] | Name: note
+Chord (Pitch Classes): [9] | Name: note
+Chord (Pitch Classes): [9, 0, 4] | Name: minor triad
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [9] | Name: note
+Chord (Pitch Classes): [8, 11, 2, 4] | Name: dominant seventh chord
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [8] | Name: note
+Chord (Pitch Classes): [11] | Name: note
+Chord (Pitch Classes): [9, 0, 4] | Name: minor triad
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [8, 11, 2, 4] | Name: dominant seventh chord
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [11] | Name: note
+Chord (Pitch Classes): [2] | Name: note
+Chord (Pitch Classes): [0] | Name: note
+Chord (Pitch Classes): [9, 0, 4] | Name: minor triad
+Chord (Pitch Classes): [0] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [9] | Name: note
+Chord (Pitch Classes): [8, 11, 2, 4] | Name: dominant seventh chord
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [0] | Name: note
+Chord (Pitch Classes): [11] | Name: note
+Chord (Pitch Classes): [9] | Name: note
+Chord (Pitch Classes): [9, 0, 4] | Name: minor triad
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [8, 11, 2, 4] | Name: dominant seventh chord
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [11] | Name: note
+Chord (Pitch Classes): [2] | Name: note
+Chord (Pitch Classes): [0] | Name: note
+Chord (Pitch Classes): [9, 0, 4] | Name: minor triad
+Chord (Pitch Classes): [9] | Name: note
+Chord (Pitch Classes): [11] | Name: note
+Chord (Pitch Classes): [0] | Name: note
+Chord (Pitch Classes): [2] | Name: note
+Chord (Pitch Classes): [11, 0, 4, 7] | Name: major seventh chord
+Chord (Pitch Classes): [7] | Name: note
+Chord (Pitch Classes): [5] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [11, 2, 4, 7] | Name: minor seventh chord
+Chord (Pitch Classes): [5] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [2] | Name: note
+Chord (Pitch Classes): [4, 7, 9, 0] | Name: minor seventh chord
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [2] | Name: note
+Chord (Pitch Classes): [0] | Name: note
+Chord (Pitch Classes): [8, 11, 2, 4] | Name: dominant seventh chord
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4, 5, 9, 0] | Name: major seventh chord
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [8, 11, 2, 4] | Name: dominant seventh chord
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4, 5, 9, 0] | Name: major seventh chord
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [8, 11, 2, 4] | Name: dominant seventh chord
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [11] | Name: note
+Chord (Pitch Classes): [2] | Name: note
+Chord (Pitch Classes): [0] | Name: note
+Chord (Pitch Classes): [9, 0, 4] | Name: minor triad
+Chord (Pitch Classes): [0] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [9] | Name: note
+Chord (Pitch Classes): [8, 11, 2, 4] | Name: dominant seventh chord
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [8] | Name: note
+Chord (Pitch Classes): [11] | Name: note
+Chord (Pitch Classes): [9, 0, 4] | Name: minor triad
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [8, 11, 2, 4] | Name: dominant seventh chord
+Chord (Pitch Classes): [3] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [11] | Name: note
+Chord (Pitch Classes): [2] | Name: note
+Chord (Pitch Classes): [0] | Name: note
+Chord (Pitch Classes): [9, 0, 4] | Name: minor triad
+Chord (Pitch Classes): [0] | Name: note
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [9] | Name: note
+Chord (Pitch Classes): [8, 11, 2, 4] | Name: dominant seventh chord
+Chord (Pitch Classes): [4] | Name: note
+Chord (Pitch Classes): [0] | Name: note
+Chord (Pitch Classes): [11] | Name: note
+Chord (Pitch Classes): [9, 0, 4] | Name: minor triad
+Chord (Pitch Classes): [8, 11, 2, 4] | Name: dominant seventh chord
