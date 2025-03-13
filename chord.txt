@@ -1,77 +1,102 @@
 CHORD PROGRESSION
 --------------
 OFFSET: 1.5
- 	Chord: minor triad
- 	Pitches: ['A2', 'C3', 'E3', 'C4']
+	Chord: minor triad
+	Pitches: ['A2', 'C3', 'E3', 'C4']
+
 OFFSET: 0.0
- 	Chord: dominant seventh chord
- 	Pitches: ['E3', 'G#3', 'B3', 'D4', 'B4']
+	Chord: dominant seventh chord
+	Pitches: ['E3', 'G#3', 'B3', 'D4', 'B4']
+
 OFFSET: 0.0
- 	Chord: minor triad
- 	Pitches: ['A2', 'C3', 'E3', 'C5']
+	Chord: minor triad
+	Pitches: ['A2', 'C3', 'E3', 'C5']
+
 OFFSET: 0.0
- 	Chord: dominant seventh chord
- 	Pitches: ['E3', 'G#3', 'B3', 'D4', 'E5']
+	Chord: dominant seventh chord
+	Pitches: ['E3', 'G#3', 'B3', 'D4', 'E5']
+
 OFFSET: 0.0
- 	Chord: minor triad
- 	Pitches: ['A2', 'C3', 'E3', 'A4']
+	Chord: minor triad
+	Pitches: ['A2', 'C3', 'E3', 'A4']
+
 OFFSET: 0.0
- 	Chord: dominant seventh chord
- 	Pitches: ['E3', 'G#3', 'B3', 'D4', 'B4']
+	Chord: dominant seventh chord
+	Pitches: ['E3', 'G#3', 'B3', 'D4', 'B4']
+
 OFFSET: 1.0
- 	Chord: minor triad
- 	Pitches: ['A2', 'C3', 'E3']
+	Chord: minor triad
+	Pitches: ['A2', 'C3', 'E3']
+
 OFFSET: 0.0
- 	Chord: dominant seventh chord
- 	Pitches: ['E3', 'G#3', 'B3', 'D4', 'E5']
+	Chord: dominant seventh chord
+	Pitches: ['E3', 'G#3', 'B3', 'D4', 'E5']
+
 OFFSET: 0.0
- 	Chord: minor triad
- 	Pitches: ['A2', 'C3', 'E3', 'A4']
+	Chord: minor triad
+	Pitches: ['A2', 'C3', 'E3', 'A4']
+
 OFFSET: 0.0
- 	Chord: major seventh chord
- 	Pitches: ['C3', 'E3', 'G3', 'B3', 'E5']
+	Chord: major seventh chord
+	Pitches: ['C3', 'E3', 'G3', 'B3', 'E5']
+
 OFFSET: 0.0
- 	Chord: minor seventh chord
- 	Pitches: ['G2', 'B2', 'D3', 'E3', 'D5']
+	Chord: minor seventh chord
+	Pitches: ['G2', 'B2', 'D3', 'E3', 'D5']
+
 OFFSET: 0.0
- 	Chord: minor seventh chord
- 	Pitches: ['A2', 'C3', 'E3', 'G3', 'C5']
+	Chord: minor seventh chord
+	Pitches: ['A2', 'C3', 'E3', 'G3', 'C5']
+
 OFFSET: 0.0
- 	Chord: dominant seventh chord
- 	Pitches: ['E3', 'G#3', 'B3', 'D4', 'B4']
+	Chord: dominant seventh chord
+	Pitches: ['E3', 'G#3', 'B3', 'D4', 'B4']
+
 OFFSET: 0.0
- 	Chord: major seventh chord
- 	Pitches: ['F2', 'A2', 'C3', 'E3', 'E5']
+	Chord: major seventh chord
+	Pitches: ['F2', 'A2', 'C3', 'E3', 'E5']
+
 OFFSET: 0.0
- 	Chord: dominant seventh chord
- 	Pitches: ['E3', 'G#3', 'B3', 'D4', 'B4']
+	Chord: dominant seventh chord
+	Pitches: ['E3', 'G#3', 'B3', 'D4', 'B4']
+
 OFFSET: 0.0
- 	Chord: major seventh chord
- 	Pitches: ['F2', 'A2', 'C3', 'E3', 'E5']
+	Chord: major seventh chord
+	Pitches: ['F2', 'A2', 'C3', 'E3', 'E5']
+
 OFFSET: 0.0
- 	Chord: dominant seventh chord
- 	Pitches: ['E3', 'G#3', 'B3', 'D4', 'E5']
+	Chord: dominant seventh chord
+	Pitches: ['E3', 'G#3', 'B3', 'D4', 'E5']
+
 OFFSET: 0.0
- 	Chord: minor triad
- 	Pitches: ['A2', 'C3', 'E3', 'A4']
+	Chord: minor triad
+	Pitches: ['A2', 'C3', 'E3', 'A4']
+
 OFFSET: 0.0
- 	Chord: dominant seventh chord
- 	Pitches: ['E3', 'G#3', 'B3', 'D4', 'B4']
+	Chord: dominant seventh chord
+	Pitches: ['E3', 'G#3', 'B3', 'D4', 'B4']
+
 OFFSET: 0.0
- 	Chord: minor triad
- 	Pitches: ['A2', 'C3', 'E3', 'C5']
+	Chord: minor triad
+	Pitches: ['A2', 'C3', 'E3', 'C5']
+
 OFFSET: 0.0
- 	Chord: dominant seventh chord
- 	Pitches: ['E3', 'G#3', 'B3', 'D4', 'E5']
+	Chord: dominant seventh chord
+	Pitches: ['E3', 'G#3', 'B3', 'D4', 'E5']
+
 OFFSET: 0.0
- 	Chord: minor triad
- 	Pitches: ['A2', 'C3', 'E3', 'A4']
+	Chord: minor triad
+	Pitches: ['A2', 'C3', 'E3', 'A4']
+
 OFFSET: 0.0
- 	Chord: dominant seventh chord
- 	Pitches: ['E3', 'G#3', 'B3', 'D4', 'B4']
+	Chord: dominant seventh chord
+	Pitches: ['E3', 'G#3', 'B3', 'D4', 'B4']
+
 OFFSET: 0.0
- 	Chord: minor triad
- 	Pitches: ['A2', 'C3', 'E3', 'A4']
+	Chord: minor triad
+	Pitches: ['A2', 'C3', 'E3', 'A4']
+
 OFFSET: 0.0
- 	Chord: dominant seventh chord
- 	Pitches: ['E3', 'G#3', 'B3', 'D4']
+	Chord: dominant seventh chord
+	Pitches: ['E3', 'G#3', 'B3', 'D4']
+
